@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Topeka
 ------
 
@@ -21,3 +22,9 @@ This is the best way to not be broken. The Polymer team doesn't use bower in day
   1. Checkout topeka
   1. Make sure you have `npm` and `bower` [installed](http://bower.io/) installed.
   1. `cd topeka` and `bower install`
+=======
+core-icons
+=========
+
+See the [component page](http://polymer-project.org/docs/elements/core-elements.html#core-icons) for more information.
+>>>>>>> 54919514411768550ecf1def6f9b6019d1129918

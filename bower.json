@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "topeka",
   "version": "0.0.0",
   "homepage": "https://github.com/Polymer/topeka",
@@ -15,5 +16,13 @@
   ],
   "dependencies": {
     "topeka-elements": "Polymer/topeka-elements#master"
+=======
+  "name": "core-icons",
+  "private": true,
+  "dependencies": {
+    "core-icon": "Polymer/core-icon#master",
+    "core-iconset-svg": "Polymer/core-iconset-svg#master",
+    "polymer": "Polymer/polymer#master"
+>>>>>>> 54919514411768550ecf1def6f9b6019d1129918
   }
 }
